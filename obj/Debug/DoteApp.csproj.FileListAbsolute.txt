@@ -1,0 +1,12 @@
+D:\Projects\DoteApp\DoteApp\bin\Debug\DoteApp.exe.config
+D:\Projects\DoteApp\DoteApp\bin\Debug\DoteApp.exe
+D:\Projects\DoteApp\DoteApp\bin\Debug\DoteApp.pdb
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.csproj.AssemblyReference.cache
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.csproj.SuggestedBindingRedirects.cache
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.Properties.Resources.resources
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.csproj.GenerateResource.cache
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.csproj.CoreCompileInputs.cache
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.exe
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.pdb
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.MainApp.resources
+D:\Projects\DoteApp\DoteApp\obj\Debug\DoteApp.AboutBox1.resources
