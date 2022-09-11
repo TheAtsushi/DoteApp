@@ -1,5 +1,5 @@
 # DoteApp
-It's a simple notepad app that actually looks like the original Windows notepad :D
+A note attached to a modern surface, with which you can record your notes anywhere and at any time.
 ## What makes it special?
 - Takes up little space.
 - No need to install.
