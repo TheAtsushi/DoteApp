@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/a/4yuDUMZ)
+![alt text](https://i.imgur.com/QMXFKB0.png)
 # DoteApp
 A note attached to a modern surface, with which you can record your notes anywhere and at any time.
 ## What makes it special?
