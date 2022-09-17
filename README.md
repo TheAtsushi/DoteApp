@@ -1,4 +1,3 @@
-![alt text](https://i.imgur.com/QMXFKB0.png)
 # DoteApp
 A note attached to a modern surface, with which you can record your notes anywhere and at any time.
 ## What makes it special?
@@ -8,3 +7,4 @@ A note attached to a modern surface, with which you can record your notes anywhe
 - You will get an update on it later.
 - It's not that special.
 > ATTENTION: The program may contain errors/bugs, these will be corrected later.
+![DoteApp](https://i.imgur.com/QMXFKB0.png)
